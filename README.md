@@ -19,13 +19,6 @@
 - 📧 [Email](mailto:arjunvashishth0711@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arjun-vashishth-63a3b5371)
 
----
-
-## 📊 GitHub Stats
-![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArjunVashishth07&show_icons=true&theme=tokyonight)
-
-## 🔝 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunVashishth07&layout=compact&theme=tokyonight)
 
 ---
 
