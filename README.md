@@ -34,7 +34,7 @@
 ## 📜 Certifications
 
 - Java Programming — NPTEL (IIT Kharagpur)
-- Python Internship Certificate — CodSoft
+- Python Internship Certificate — CodeRepo
 
 ---
 
